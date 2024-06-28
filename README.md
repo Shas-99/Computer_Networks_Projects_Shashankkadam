@@ -1,9 +1,9 @@
 # Arithmetic Client-Server System Using TCP Sockets
-![Hi](Multi-Client Chatroom/image.png)
+
 ## Overview
 This project involves designing and implementing a Client-Server system that uses TCP sockets to enable communication between a client and a server. The client initiates communication, sends arithmetic operation requests, and receives computed results from the server.
 
-![Client-Server System]()
+![Client-Server System](Arithmetic_Chatbot/image.png)
 ## Functionality
 
 ### Client
@@ -49,7 +49,7 @@ This project demonstrates the implementation of a basic Client-Server system usi
 ## Overview
 This project involves designing and implementing a multi-client chat room system. The client process acts as a chat window, allowing users to send and receive messages from other clients via the server. The server manages the chat room, keeping track of connected clients and broadcasting messages to all clients.
 
-![Multi-Client Chat Room System](Multi-Client Chatroom/image.png)
+![Demo](Multi-Client_chatroom/image.png)
 
 ## Functionality
 
