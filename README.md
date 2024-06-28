@@ -3,7 +3,7 @@
 ## Overview
 This project involves designing and implementing a Client-Server system that uses TCP sockets to enable communication between a client and a server. The client initiates communication, sends arithmetic operation requests, and receives computed results from the server.
 
-![Client-Server System](/Arithmetic ChatBot/image.png)
+![Client-Server System](Arithmetic ChatBot/image.png)
 
 ## Functionality
 
